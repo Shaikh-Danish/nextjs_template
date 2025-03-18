@@ -1,5 +1,5 @@
 {
-  "name": "image_gallery",
+  "name": "nextjs_template",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -51,5 +51,6 @@
     "ts-jest": "^29.2.6",
     "ts-node": "^10.9.2",
     "typescript": "^5"
-  }
+  },
+  "author": "Danis Shaikh"
 }
