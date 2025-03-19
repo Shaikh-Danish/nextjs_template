@@ -16,6 +16,6 @@ describe("Home Page", () => {
   it("renders main content area with correct styling", () => {
     render(<Home />);
     const main = screen.getByRole("main");
-    expect(main).toHaveClass("flex-1 h-full overflow-y-scroll bg-white px-2 py-3");
+    expect(main).toHaveClass("flex-1 h-full overflow-y-scroll px-2 py-3");
   });
 });
